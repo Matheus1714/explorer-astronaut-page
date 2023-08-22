@@ -10,7 +10,7 @@ This Front-end project was developed based on the design proposed in [Figma](<ht
 
 ![](.github/animation.gif)
 
-## Techonologies
+## Technologies.
 
 - HTML
 - CSS
